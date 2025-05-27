@@ -7,7 +7,12 @@ Note: 'You' in this document is you the engineer/manager/lead.
 I am an engineer turned engineering manager. I have worked at various stage start-ups (YC-Alum exits WePay and late stage companies) as well as large global companies like Amazon and Netflix and Goldman Sachs. I have been in Cloud Technologies, Financial Services, Entertainment and Streaming etc.
 ### My Job
 ### How I approach my job
-### If I succeed at my job:
+### If I succeed at my job
+### How to Reach Me
+- It's always ok to huddle on Slack (I built part of it :-) and love the features) or send me a Google Meet link to join
+- Send me a direct slack, with `urgent` sign, and I will respond immediately, otherwise, I will try best to reply in a few minutes/hours
+- Send me a group chat with @matt.chen so I can respond quickly
+- I will usually scan all groups/emails by EOD
 ### Known Failure modes
 ### Personality Quirks
 
